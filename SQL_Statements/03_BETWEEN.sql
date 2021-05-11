@@ -1,0 +1,3 @@
+USE world;
+
+SELECT * FROM city WHERE Population BETWEEN 2000000 AND 2100000;
